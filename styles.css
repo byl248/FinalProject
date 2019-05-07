@@ -9,7 +9,7 @@ div {
 	height:50%;
 	float: left;
 	position: absolute;
-	transition: width 1s, height 1s;
+	transition: width 0.5s, height 0.5s;
 }
 
 img {
